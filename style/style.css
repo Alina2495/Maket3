@@ -10,7 +10,7 @@ body {
 .top {
     background-image:
     radial-gradient(1371.00px at 96.08% 15.9%, rgba(0, 25, 88, 0) 0%, #000000 100%), 
-    url('../img_for_maket3/background-image.png');
+    url('../img/background-image.png');
     background-size: cover, cover; 
     position: relative;
     padding: 205px 0 139px 241px;
@@ -35,7 +35,7 @@ a.register-now {
     top: 216px;
     height: 120px;
     width: 80px;
-    background-image: url('../img_for_maket3/logo-2.png');
+    background-image: url('../img/logo-2.png');
     background-size: cover;
 }
 div.figma {
